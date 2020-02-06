@@ -1,0 +1,1 @@
+# zig-allowzero-test
